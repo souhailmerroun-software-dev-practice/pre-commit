@@ -1,5 +1,6 @@
 # pre-commit reactjs
 
+```
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v2.3.0
@@ -10,3 +11,4 @@ repos:
     rev: 'v8.16.0'
     hooks:
     -   id: eslint #github.com/pre-commit/mirrors-eslint
+```
