@@ -1,6 +1,6 @@
 # pre-commit
 
-- Installation: `pip install pre-commit`
+- Installation: `pip install pre-commit` && `pre-commit install`
 
 - Run: `pre-commit`
 
